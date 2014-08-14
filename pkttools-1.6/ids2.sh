@@ -1,0 +1,1 @@
+sudo ./pkt-recv -i eth0 ETHERNET.SRC_ADDR==00:0b:97:dc:c6:9d -ro | sudo ./pkt-send -i eth0 ETHERNET.DST_ADDR=28:d2:44:63:f0:c1 TCP.DST_PORT!=22 TCP.DST_PORT!=443
