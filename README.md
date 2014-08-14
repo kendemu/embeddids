@@ -28,4 +28,5 @@ Features :
   Cutting down ssh connections and https encrypted connections in order to find footprints of the hacker's computer
   
 Warning:
+ I can't take any responsibility if you used this IDS in cyber attacking.
  Don't use the pkt-change command! The IDS will ARP Storm and ICMP Strom your network!
